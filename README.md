@@ -6,4 +6,4 @@ Anyways, here's a picture from the IT Crowd to show that we can link images and 
 
 - ![monkeyfootball](https://github.com/user-attachments/assets/cdda0ecb-cb49-4a89-b348-6600fbfe736c)
 ## 28/01/25
-- Blog is created on *github.io* following advice from our project supervisor, Ellen Rushe.
+- Blog is created on *github.io* following advice from our project supervisor, Ellen Rushe. Admittedly, there were a few things to take care of initially (*mainly in learning in how to deploy the blog*). It seems pretty nifty that this is doable on standard github!
